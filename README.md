@@ -7,7 +7,7 @@ A coming publication by Emily F., Alvason L., and Lawrance C., (2019)
 ## Overview
 ### Visualizing immune response from PBMC to tissue after human immuno-therapeutic HSV-2 vaccine
 ![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/Tcell_from_PBMC_to_tissue.png)
-![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/Tcell_from_PBMC_to_tissue.png)
+![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/Tcell_venn_diagram.png)
 
 ## Installation
 ### Prerequisites
@@ -19,7 +19,7 @@ The required Python libaries are:
 
 ### Getting started
 ```
-clone git https://github.com/alvason/identifying_neurite_by_RRS.git
+clone git https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine.git
 ```
 ### Examples
 #### [Demo of RRS code in Jupyter-notebook]
