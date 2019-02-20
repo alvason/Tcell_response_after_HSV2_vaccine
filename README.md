@@ -6,8 +6,8 @@ A coming publication by Emily F., Alvason L., and Lawrance C., (2019)
 
 ## Overview
 ### Visualizing immune response from PBMC to tissue after human immuno-therapeutic HSV-2 vaccine
-![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/figure/AlvaHmm_demo_edge_detection_edge_detection_raw_image_window0.png)
-
+![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/Tcell_from_PBMC_to_tissue.png)
+![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/Tcell_from_PBMC_to_tissue.png)
 
 ## Installation
 ### Prerequisites
