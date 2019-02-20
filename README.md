@@ -23,5 +23,5 @@ clone git https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vacci
 ### Examples
 #### [Demo of RRS code in Jupyter-notebook]
 ![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/Tcell_venn_diagram.png)
-## Contract and more information
+## Contact and more information
 This repository is maintained by [@alvason](https://github.com/alvason).
